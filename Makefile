@@ -1,7 +1,7 @@
 download-go-mod:
 	cd backend && go mod download
 build-backend:
-	cd backend && ./build.sh
+	cd backend && go build
 build-frontend:
 	cd frontend && npm run-script build
 download-npm-serve:
