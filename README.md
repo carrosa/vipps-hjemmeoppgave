@@ -10,8 +10,8 @@
 
 1. In frontend directory run: npm start
 2. In backend directory run either:
-  1. go run
-  2. go build && ./backend
+    1. go run
+    2. go build && ./backend
 3. With this way frontend will be served on port 3000
 
 
