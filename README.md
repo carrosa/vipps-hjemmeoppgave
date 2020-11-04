@@ -1,4 +1,6 @@
-# To start project:
+# To start/build project:
+
+## With Make
 
 1. Make sure you have golang (using v.1.15) and npm installed
 2. in root directory, run: make start
@@ -6,7 +8,7 @@
 4. With this way frontend will be served on port 5000
 ** Obligatory works on my computer **
 
-# If the above doesnt work:
+## If the above doesnt work:
 
 1. In frontend directory run: npm start
 2. In backend directory run either:
