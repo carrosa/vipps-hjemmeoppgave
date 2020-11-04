@@ -6,7 +6,8 @@
 2. in root directory, run: make start
 3. Hopefully make works on windows too if you are running that.
 4. With this way frontend will be served on port 5000
-** Obligatory works on my computer **
+
+*Obligatory works on my computer*
 
 ## If the above doesnt work:
 
