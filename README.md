@@ -2,6 +2,8 @@
 
 ## With Make
 
+(You might have to run npm install in the frontend directory before continuing)
+
 1. Make sure you have golang (using v.1.15) and npm installed
 2. in root directory, run: make start
 3. Hopefully make works on windows too if you are running that.
