@@ -13,10 +13,11 @@
 
 ## If the above doesnt work:
 
-1. In frontend directory run: npm start
-2. In backend directory run either:
+1. In frontend directory run: npm install
+2. In frontend directory run: npm start
+3. In backend directory run either:
     1. go run
     2. go build && ./backend
-3. With this way frontend will be served on port 3000
+4. With this way frontend will be served on port 3000
 
 
